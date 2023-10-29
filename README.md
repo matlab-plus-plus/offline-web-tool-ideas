@@ -14,6 +14,9 @@ I believe every one of these tools could be coded as client-side apps which woul
 - [CLIPS](https://www.clipsrules.net/) wasm shell like the desktop app 
 - An online editor/solver for Planning Domain Description Language (PDDL) like [this site](https://editor.planning.domains/)
 - Online tools for the [SOAR cognitive architecture](https://soar.eecs.umich.edu/)
+- An editor that could be used to markup plaintext files for code review.
+Include syntax highlighting for different languages.
+This could work like the Visual Studio Code [Code Review](https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review) extension where you can highlight lines and add notes by priority/category and export all comments in .csv or .html.
 
 
 Note that [devtoolsdaily](https://www.devtoolsdaily.com/) seems like a great resource containing multiple of these utilities.
