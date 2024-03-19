@@ -17,6 +17,6 @@ I believe every one of these tools could be coded as client-side apps which woul
 - An editor that could be used to markup plaintext files for code review.
 Include syntax highlighting for different languages.
 This could work like the Visual Studio Code [Code Review](https://marketplace.visualstudio.com/items?itemName=d-koppenhagen.vscode-code-review) extension where you can highlight lines and add notes by priority/category and export all comments in .csv or .html.
-
+- Hex editor like [hexed.it](https://hexed.it/)
 
 Note that [devtoolsdaily](https://www.devtoolsdaily.com/) seems like a great resource containing multiple of these utilities.
